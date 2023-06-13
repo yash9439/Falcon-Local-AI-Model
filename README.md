@@ -1,3 +1,5 @@
+Article : https://medium.com/@yash9439/introducing-falcon-llm-leading-the-way-in-language-generation-79a73a56dd5
+
 ## Installation
 
 To install the required dependencies, run the following command:
